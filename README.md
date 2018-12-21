@@ -1,7 +1,6 @@
-# letna_porocila_dtjev
+# Letna poročila državnih tožilstev
 
-Podatki o delu državnih tožilstev v letih 2015, 2016 in 2017, v
-anonimizirani in strojno berljivi obliki, pridobljeni po ZDIJZ.
+Podatki o delu državnih tožilstev v letih 2015, 2016 in 2017, v anonimizirani in strojno berljivi obliki, pridobljeni na podlagi zahteve za dostop do informacij javnega značaja (ZDIJZ).
 
 Podatki so v podmapah za za vsako državno tožilistvo, v treh ločenih datotekah:
  - lp 45: tu naj bi bila za vsakega tožilca njegova šifra in število dni v službi;
